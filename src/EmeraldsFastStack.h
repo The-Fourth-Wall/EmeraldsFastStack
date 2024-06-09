@@ -20,6 +20,6 @@
 #ifndef __EMERALDS_FAST_STACK_H_
 #define __EMERALDS_FAST_STACK_H_
 
-
+#include "stack_base/stack_base.h"
 
 #endif
