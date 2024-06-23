@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [YourName](https://github.com/Oblivious-Oblivious) - creator and maintainer
+- [oblivious](https://github.com/Oblivious-Oblivious) - creator and maintainer
