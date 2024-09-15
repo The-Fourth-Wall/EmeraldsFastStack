@@ -1,5 +1,5 @@
-#include "../../libs/cSpec/export/cSpec.h"
-#include "../../src/stack_base/stack_base.h"
+#include "../libs/cSpec/export/cSpec.h"
+#include "../src/EmeraldsFastStack.h"
 
 module(T_stack_base, {
   int st[65536];
